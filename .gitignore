@@ -34,6 +34,8 @@ lib/
 .floobit
 .floo
 .flooignore
+.vscode
+.DS_Store
 
 # Swap files (for the vim users in all of us)
 /**/*.swp
